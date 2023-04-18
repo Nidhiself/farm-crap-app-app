@@ -17,7 +17,7 @@ npm install -g cordova ionic
 
 3. Clone this project to your local machine
 ```bash
-git clone https://github.com/Elixel/farm-crap-app-pro-app
+git clone https://github.com/Nidhiself/farm-crap-app-pro-app
 ```
 
 4. Install required packages
